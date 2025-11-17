@@ -179,3 +179,23 @@ p{
   height: 10%;
   width: 20%;
 }
+#Bartholomew{
+  float:left;
+  margin-left: 5%;
+  margin-top: 3.5%;
+  height: auto;
+  width: 20%
+}
+#DrQ{
+  float: right;
+  height: auto;
+  width: 20%;
+  margin-right: 5%;
+}
+#IndexParagraph{
+  color: black;
+text-align: center;
+margin-left: 10%;
+margin-right: 10%;
+margin-top: 5%;
+}
