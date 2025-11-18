@@ -81,11 +81,10 @@ body{
   margin-top: 2%;
 }
 #p1{
-  text-align: center;
-  background-color: rgb(211, 211, 211);
-  width: 300px;
-  border: 15px solid rgb(211, 211, 211);
-  padding: 50px;
+text-align: center;
+margin-left: 10%;
+margin-right: 10%;
+margin-top: 5%;
 }
 .center {
   text-align: center;
@@ -114,25 +113,43 @@ p{
   margin-left: 40%;
   margin-right: 50%;
 }
-#SkillsP1{
-  background-color: #c1fff3;
+#OGP1{
+  background-color:#c1fff3;
   height: 10%;
   width: 20%;
   text-align: center;
   margin-left: 40%;
   margin-right: 50%;
 }
+#OGP2{
+  background-color:#c1fff3;
+  height: 10%;
+  width: 20%;
+  text-align: center;
+  margin-left: 40%;
+  margin-right: 50%;
+}
+#SkillsP1{
+  background-color: #c1fff3;
+text-align: center;
+margin-left: 10%;
+margin-right: 10%;
+margin-top: 5%;
+}
 .paragraphs{
-  font-size: larger;
+  
   color: #000;
+  text-align: center;
+margin-left: 10%;
+margin-right: 10%;
+margin-top: 5%;
 }
 #AboutMeP1{
   background-color: #c1fff3;
-  height: 10%;
-  width: 20%;
-  text-align: center;
-  margin-left: 40%;
-  margin-right: 50%;
+text-align: center;
+margin-left: 10%;
+margin-right: 10%;
+margin-top: 5%;
 }
 #MusicP1{
   background-color: #c1fff3;
@@ -202,4 +219,7 @@ margin-top: 5%;
 #Bman{
   height: auto;
   width: 20%;
+}
+body{
+  font-size: 2vw;
 }
