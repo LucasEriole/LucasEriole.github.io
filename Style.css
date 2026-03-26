@@ -199,22 +199,23 @@ margin-top: 5%;
 #Bartholomew{
   float:left;
   margin-left: 5%;
-  margin-top: 3.5%;
-  height: auto;
+  margin-right: 5%;
+  height: 50%;
   width: 20%
 }
 #DrQ{
   float: right;
-  height: auto;
+  height: 50%;
   width: 20%;
   margin-right: 5%;
+  margin-left: 5%;
 }
 #IndexParagraph{
   color: black;
 text-align: center;
-margin-left: 10%;
-margin-right: 10%;
-margin-top: 5%;
+margin-left: 15%;
+margin-right: 15%;
+margin-top: 15%;
 }
 #Bman{
   height: auto;
@@ -222,4 +223,32 @@ margin-top: 5%;
 }
 body{
   font-size: 2vw;
+}
+
+#Donutrender{
+  background-color:#c1fff3;
+  height: 10%;
+  width: 50%;
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+#BlenderDonut{
+margin-top: 0%;
+ background-color:#c1fff3;
+  height: 10%;
+  width: 50%;
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 50%;
+}
+
+#Resumeparagraph{
+ margin-top: 0%;
+ height: 10%;
+ width: 50%;
+ text-align: center;
+ margin-left: 25%;
+ margin-right: 25%;
 }
